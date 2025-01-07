@@ -1,0 +1,32 @@
+{
+  "name": "server-2",
+  "version": "1.0.2",
+  "description": "Good All the best",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "god",
+    "bless",
+    "me"
+  ],
+  "author": "Dost Muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "chalk": "^5.4.1",
+    "cloudinary": "^2.5.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3",
+    "multer": "^1.4.5-lts.1"
+  }
+}
